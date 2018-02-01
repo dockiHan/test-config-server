@@ -11,4 +11,4 @@ application:
       addr: http://localhost:8041/
       port 8041
 message:
-  hello: Hello! I'm in config-dev branch test.
+  hello: Hello! I'm in config-dev branch dev.
