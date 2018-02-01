@@ -1,0 +1,14 @@
+application:
+  version: 0.1.0
+  label: dev
+  name: spring-cloud-config
+  details:
+    user: config-test
+    server:
+      addr: http://localhost:8040/
+      port: 8040
+    client:
+      addr: http://localhost:8041/
+      port: 8041
+message:
+  hello: Hello! I'm in config-dev branch test version 0.1.0.
