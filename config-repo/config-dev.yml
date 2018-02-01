@@ -1,5 +1,5 @@
 application:
-  version: 0.0.1
+  version: 0.0.5
   label: dev
   name: spring-cloud-config
   details:
@@ -11,4 +11,4 @@ application:
       addr: http://localhost:8041/
       port 8041
 message:
-  hello: Hello! I'm in config-dev branch dev.
+  hello: Hello! I'm in config-dev branch dev version 0.0.5.
