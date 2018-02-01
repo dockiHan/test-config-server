@@ -9,6 +9,6 @@ application:
       port: 8040
     client:
       addr: http://localhost:8041/
-      port 8041
+      port: 8041
 message:
   hello: Hello! I'm in config-dev branch dev version 0.0.5.
