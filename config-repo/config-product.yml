@@ -1,5 +1,5 @@
 application:
-  version: 1.0
+  version: 0.0.1
   label: product
   name: spring-cloud-config
   details:
@@ -11,4 +11,4 @@ application:
       addr: http://localhost:8041/
       port: 8041
 message:
-  hello: Hello! I'm in config-product branch master version 1.0.
+  hello: Hello! I'm in config-product branch master version 0.0.1.
